@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 # Certifications Achieved
 
 ## Introduction
@@ -25,9 +27,11 @@ This page lists all the certifications I have achieved throughout my studies and
 
 If you have any questions or would like more information about my certifications, please contact me via:
 
-- **Email**: [ngoclinh.workcontact@gmail.com] (mailto:ngoclinh.workcontact@gmail.com)
-- **LinkedIn**: [Ngoc Linh] (https://www.linkedin.com/in/linhin/)
+- **Email**: ngoclinh.workcontact@gmail.com
+- **LinkedIn**: [Ngoc Linh](https://www.linkedin.com/in/linhin/)
 
 ## Copyright
 
-© [Year] [Nguyen Ngoc Linh]. All rights reserved.
+© 2024 Nguyen Ngoc Linh. All rights reserved.
+
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
