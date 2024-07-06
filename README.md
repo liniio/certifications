@@ -1,8 +1,6 @@
-# ✨ Certifications
+### Certifications ✨
 
 Welcome to my Certifications repository! Here, you will find a comprehensive list of the certifications I have earned throughout various courses and my educational journey. Each certification represents my commitment to continuous learning and professional development.
-
-## Overview
 
 ### Technology and Programming
 - [Data Visualization with Python](certificates/data-visualization-with-python.pdf) - Coursera, 2024
