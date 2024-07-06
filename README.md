@@ -18,10 +18,9 @@ Welcome to my Certifications repository! Here, you will find a comprehensive lis
 - [The Fundamentals of Digital Marketing](certificates/the-fundamentals-of-digital-marketing.pdf) - Google, 2023
 - [Learning Excel for the web Office 365/Microsoft 365 (2020)](certificates/learning-excel-for-the-web-office-365-microsoft-365-2020.pdf) - LinkedIn, 2022
 
-## Contact Information
+### Contact Information
 
 Feel free to connect with me for any inquiries or collaborations.
-
 
 <p>
   <a href="https://www.linkedin.com/in/linhin/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>&nbsp;
@@ -29,6 +28,7 @@ Feel free to connect with me for any inquiries or collaborations.
   <a href="https://github.com/liniio"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github" alt="Github"/></a>&nbsp;
   <a href="https://www.facebook.com/liz.profile"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook" alt="Facebook"/></a>&nbsp;
 </p>
+
 ---
 
 © Nguyen Ngoc Linh, 2024
