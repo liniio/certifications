@@ -25,7 +25,6 @@ Feel free to connect with me for any inquiries or collaborations.
 <p>
   <a href="https://www.linkedin.com/in/linhin/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:ngoclinh.workcontact@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-  <a href="https://github.com/liniio"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github" alt="Github"/></a>&nbsp;
   <a href="https://www.facebook.com/liz.profile"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook" alt="Facebook"/></a>&nbsp;
 </p>
 
