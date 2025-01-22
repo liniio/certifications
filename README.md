@@ -5,6 +5,7 @@ Welcome to my Certifications repository! Here, you will find a comprehensive lis
 ### Overview
 
 #### Technology and Programming
+- [Advanced Excel Course With Shortcuts Tips and Tricks for JOB](certificates/advanced-excel-course-with-shortcuts-tips-and-tricks-for-job.pdf) - Udemy, 2024
 - [Data Visualization with Python](certificates/data-visualization-with-python.pdf) - Coursera, 2024
 - [Introduction to Data Analytics](certificates/introduction-to-data-analytics.pdf) - Coursera, 2024
 - [Introduction to Career Skills in Software Development](certificates/introduction-to-career-skills-in-software-development.pdf) - LinkedIn, 2023
@@ -30,4 +31,4 @@ Feel free to connect with me for any inquiries or collaborations.
 
 ---
 
-© Nguyen Ngoc Linh, 2024
+© Nguyen Ngoc Linh, 2025
