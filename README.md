@@ -5,6 +5,8 @@ Welcome to my Certifications repository! Here, you will find a comprehensive lis
 ### Overview
 
 #### Technology and Programming
+- [Build a Full Website using WordPress](certificates/build-a-full-website-using-wordPress.pdf) - Coursera, 2025
+- [Python Django Web Deverlopment](certificates/python-django-web-deverlopment.pdf) - Udemy, 2025
 - [Advanced Excel Course With Shortcuts Tips and Tricks for JOB](certificates/advanced-excel-course-with-shortcuts-tips-and-tricks-for-job.pdf) - Udemy, 2024
 - [Data Visualization with Python](certificates/data-visualization-with-python.pdf) - Coursera, 2024
 - [Introduction to Data Analytics](certificates/introduction-to-data-analytics.pdf) - Coursera, 2024
@@ -24,11 +26,9 @@ Welcome to my Certifications repository! Here, you will find a comprehensive lis
 Feel free to connect with me for any inquiries or collaborations.
 
 <p>
-  <a href="https://www.linkedin.com/in/linhin/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:ngoclinh.workcontact@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-  <a href="https://www.facebook.com/liz.profile"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook" alt="Facebook"/></a>&nbsp;
 </p>
 
 ---
 
-© Nguyen Ngoc Linh, 2025
+© Linio, 2026
