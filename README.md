@@ -2,8 +2,6 @@
 
 Welcome to my Certifications repository! Here, you will find a comprehensive list of the certifications I have earned throughout various courses and my educational journey. Each certification represents my commitment to continuous learning and professional development.
 
-### Overview
-
 #### Technology and Programming
 - [Build a Full Website using WordPress](certificates/build-a-full-website-using-wordPress.pdf) - Coursera, 2025
 - [Python Django Web Deverlopment](certificates/python-django-web-deverlopment.pdf) - Udemy, 2025
@@ -21,7 +19,3 @@ Welcome to my Certifications repository! Here, you will find a comprehensive lis
 - [Advanced Excel Course With Shortcuts Tips and Tricks for JOB](certificates/advanced-excel.pdf) - Google, 2023
 - [The Fundamentals of Digital Marketing](certificates/the-fundamentals-of-digital-marketing.pdf) - Google, 2023
 - [Learning Excel for the web Office 365/Microsoft 365 (2020)](certificates/learning-excel-for-the-web-office-365-microsoft-365-2020.pdf) - LinkedIn, 2022
-
----
-
-© Linio, 2026
