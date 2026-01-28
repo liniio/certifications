@@ -18,16 +18,9 @@ Welcome to my Certifications repository! Here, you will find a comprehensive lis
 - [Information Technology Onboarding](certificates/information-technology-onboarding.pdf) - F8, 2022
 
 #### Business and Marketing
+- [Advanced Excel Course With Shortcuts Tips and Tricks for JOB](certificates/advanced-excel.pdf) - Google, 2023
 - [The Fundamentals of Digital Marketing](certificates/the-fundamentals-of-digital-marketing.pdf) - Google, 2023
 - [Learning Excel for the web Office 365/Microsoft 365 (2020)](certificates/learning-excel-for-the-web-office-365-microsoft-365-2020.pdf) - LinkedIn, 2022
-
-### Contact Information
-
-Feel free to connect with me for any inquiries or collaborations.
-
-<p>
-  <a href="mailto:ngoclinh.workcontact@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</p>
 
 ---
 
