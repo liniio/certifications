@@ -1,6 +1,6 @@
 ### Certifications ✨
 
-Welcome to my Certifications repository! Here, you will find a comprehensive list of the certifications I have earned throughout various courses and my educational journey. Each certification represents my commitment to continuous learning and professional development.
+Here, you will find a comprehensive list of the certifications I have earned throughout various courses and my educational journey. Each certification represents my commitment to continuous learning and professional development.
 
 #### Technology and Programming
 - [Build a Full Website using WordPress](certificates/build-a-full-website-using-wordPress.pdf) - Coursera, 2025
